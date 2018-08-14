@@ -1,0 +1,3 @@
+[submodule "Bolsa-app-example"]
+	path = Bolsa-app-example
+	url = https://github.com/alexssantos/Bolsa-app-example.git
